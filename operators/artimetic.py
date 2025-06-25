@@ -1,4 +1,4 @@
-# Artimetic Operators:
+# Artimetic Operators check:
 
 x=5
 y=3
