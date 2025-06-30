@@ -39,7 +39,7 @@ for i in range(1,21):
 for i in ["banana","apple","orange"]:
     if i == "apple":
      print(i)
-    else:
+    else:    
         print("end") 
 
 
