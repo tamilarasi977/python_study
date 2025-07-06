@@ -42,7 +42,7 @@ class Person:
         self.name=name
 p1=Person("tamil")
 del p1
-print(p1)
+print(p1) 
 
 
 
